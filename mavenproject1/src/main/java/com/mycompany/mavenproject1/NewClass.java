@@ -14,5 +14,6 @@ public class NewClass {
     String sus = "orslok";
     String sis = "lol";
     String ses= "xd";
+    String test= "test";
     
 }
