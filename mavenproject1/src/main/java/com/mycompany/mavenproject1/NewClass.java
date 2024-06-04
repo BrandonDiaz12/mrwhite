@@ -12,5 +12,6 @@ public class NewClass {
     int cu = 12;
     String moom = "furro";
     String sus = "orslok";
+    String sis = "lol";
     
 }
