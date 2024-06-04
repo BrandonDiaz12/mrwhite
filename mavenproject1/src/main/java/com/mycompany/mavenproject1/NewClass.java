@@ -15,5 +15,6 @@ public class NewClass {
     String sis = "lol";
     String ses= "xd";
     String test= "test";
+    String FOOL = "coom";
     
 }
