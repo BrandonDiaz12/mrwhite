@@ -13,5 +13,6 @@ public class NewClass {
     String moom = "furro";
     String sus = "orslok";
     String sis = "lol";
+    String ses= "xd";
     
 }
