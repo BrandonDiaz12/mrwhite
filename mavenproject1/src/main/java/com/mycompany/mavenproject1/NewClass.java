@@ -10,5 +10,6 @@ package com.mycompany.mavenproject1;
  */
 public class NewClass {
     int cu = 12;
+    String moom = "furro";
     
 }
